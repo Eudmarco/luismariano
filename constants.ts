@@ -7,7 +7,7 @@ export const COMPANY_INFO = {
   phone: "11 96335-8498",
   whatsappLink: "https://wa.me/5511963358498",
   domain: "luismariano.com.br",
-  address: "Atendemos SP, Campinas e Bragança Paulista"
+  address: "Atendemos SP, ABC, Campinas, Bragança e Baixada Santista"
 };
 
 export const IMAGES = {

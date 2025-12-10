@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
             <ul className="space-y-2 text-sm">
               <li>{COMPANY_INFO.phone}</li>
               <li>{COMPANY_INFO.email}</li>
-              <li>São Paulo - SP</li>
+              <li>São Paulo, ABC e Litoral</li>
             </ul>
           </div>
         </div>

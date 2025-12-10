@@ -46,7 +46,9 @@ const SocialProof: React.FC = () => {
              <p className="text-slate-500 text-sm uppercase tracking-widest mb-6">Áreas de Atuação Principal</p>
              <div className="flex flex-wrap justify-center gap-6 md:gap-12 opacity-60 grayscale hover:grayscale-0 transition-all duration-500">
                 <span className="text-xl font-bold text-slate-400">SÃO PAULO</span>
+                <span className="text-xl font-bold text-slate-400">ABC PAULISTA</span>
                 <span className="text-xl font-bold text-slate-400">CAMPINAS</span>
+                <span className="text-xl font-bold text-slate-400">BAIXADA SANTISTA</span>
                 <span className="text-xl font-bold text-slate-400">BRAGANÇA PAULISTA</span>
                 <span className="text-xl font-bold text-slate-400">JUNDIAÍ</span>
              </div>
