@@ -3,7 +3,7 @@ import { ServiceItem, Testimonial, NavLink } from './types';
 
 export const COMPANY_INFO = {
   name: "Eng. Luiz Mariano",
-  email: "luiz.mariano@ufabc.edu.br",
+  email: "eng.lmariano@yahoo.com",
   phone: "11 96335-8498",
   whatsappLink: "https://wa.me/5511963358498",
   domain: "luismariano.com.br",
@@ -36,7 +36,7 @@ export const SERVICES: ServiceItem[] = [
   {
     id: 'pomc',
     title: "POMC",
-    description: "Plano de Orientação e Manutenção Corretiva/Preventiva para sistemas de climatização, assegurando a qualidade do ar e conformidade com a legislação.",
+    description: "Elaboração e orientação de planos de manutenção preditiva, preventiva para frota de caminhões e veículos. Assegurando a eficiência e segurança do seu trabalho. Assim sua frota estará segura e estará protegendo a todos no trânsito.",
     icon: BookOpen
   },
   {

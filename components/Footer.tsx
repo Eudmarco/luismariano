@@ -35,7 +35,7 @@ const Footer: React.FC = () => {
             <h4 className="text-white font-bold mb-4">Serviços</h4>
             <ul className="space-y-2 text-sm">
               <li>Reclassificação de Monta</li>
-              <li>POMC (Climatização)</li>
+              <li>POMC (Gestão de Frotas)</li>
               <li>Inspeções NR13</li>
               <li>Adequação NR12</li>
             </ul>
