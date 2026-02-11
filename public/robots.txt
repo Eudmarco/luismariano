@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luismariano.com.br/sitemap.xml
